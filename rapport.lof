@@ -1,0 +1,12 @@
+\select@language {french}
+\contentsline {figure}{\numberline {1}{\ignorespaces LFGN illustr\IeC {\'e}e avec V\relax }}{3}
+\contentsline {figure}{\numberline {2}{\ignorespaces LFGN illustr\IeC {\'e}e avec F\relax }}{4}
+\contentsline {figure}{\numberline {3}{\ignorespaces LFGN illustr\IeC {\'e}e avec SFC\relax }}{5}
+\contentsline {figure}{\numberline {4}{\ignorespaces Histogramme de la r\IeC {\'e}partition de $\sqrt {N}\left (\frac {\mathaccentV {bar}016{V}_{N}-\mathbb {E}(V)}{\sigma }\right )$ avec $N=1000$, $\mathbb {E}(V)=230$ et $\sigma =2.309$\relax }}{6}
+\contentsline {figure}{\numberline {5}{\ignorespaces Histogramme de la r\IeC {\'e}partition de $\sqrt {N}\left (\frac {\mathaccentV {bar}016{F}_{N}-\mathbb {E}(F)}{\sigma }\right )$ avec $N=1000$, $\mathbb {E}(F)=18.97$ et $\sigma =0.046$\relax }}{7}
+\contentsline {figure}{\numberline {6}{\ignorespaces Histogramme de la r\IeC {\'e}partition de $\sqrt {N}\left (\frac {\mathaccentV {bar}016{SFC}_{N}-\mathbb {E}(SFC)}{\sigma }\right )$ avec $N=1000$, $\mathbb {E}(SFC)=17.52$ et $\sigma =0.2899$\relax }}{8}
+\contentsline {figure}{\numberline {7}{\ignorespaces Histogramme de la r\IeC {\'e}partition de $10000$ valeurs de $M_{fuel}$\relax }}{9}
+\contentsline {figure}{\numberline {8}{\ignorespaces Densit\IeC {\'e} de $M_{fuel}$ pour diff\IeC {\'e}rents niveaux de bruit. Estimation avec $N=10000$\relax }}{10}
+\contentsline {figure}{\numberline {9}{\ignorespaces Nuage de points des estimations de $S^{\{F\}}$ en fonction de $N$, taille de l'\IeC {\'e}chantillon\relax }}{11}
+\contentsline {figure}{\numberline {10}{\ignorespaces Nuage de points des estimations de $S^{\{SFC\}}$ en fonction de $N$, taille de l'\IeC {\'e}chantillon\relax }}{12}
+\contentsline {figure}{\numberline {11}{\ignorespaces Evolution de $S^{\{SFC\}}$ et de $S^{\{F\}}$ en fonction de $\sigma $. $N=10000$\relax }}{13}

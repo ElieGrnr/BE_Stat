@@ -1,0 +1,99 @@
+\begin{figure}[!h]
+\begin{center}
+    \includegraphics[scale=0.7]{LFGN.png}
+    \caption{LFGN illustrée avec V}
+    \label{LFGN_V}
+\end{center}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[!h]
+\begin{center}
+    \includegraphics[scale=0.7]{LFGN_F.png}
+    \caption{LFGN illustrée avec F}
+    \label{LFGN_F}
+\end{center}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[!h]
+\begin{center}
+    \includegraphics[scale=0.7]{LFGN_SFC.png}
+    \caption{LFGN illustrée avec SFC}
+    \label{LFGN_SFC}
+\end{center}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[!h]
+\begin{center}
+    \includegraphics[scale=0.7]{TCL_V.pdf}
+    \caption{Histogramme de la répartition de $\sqrt{N}\left(\frac{\bar{V}_{N}-\mathbb{E}(V)}{\sigma}\right)$ avec $N=1000$, $\mathbb{E}(V)=230$ et $\sigma=2.309$}
+    \label{TCL_V}
+\end{center}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[!h]
+\begin{center}
+    \includegraphics[scale=0.7]{TCL_F.pdf}
+    \caption{Histogramme de la répartition de $\sqrt{N}\left(\frac{\bar{F}_{N}-\mathbb{E}(F)}{\sigma}\right)$ avec $N=1000$, $\mathbb{E}(F)=18.97$ et $\sigma=0.046$}
+    \label{TCL_F}
+\end{center}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[!h]
+\begin{center}
+    \includegraphics[scale=0.7]{TCL_SFC.pdf}
+    \caption{Histogramme de la répartition de $\sqrt{N}\left(\frac{\bar{SFC}_{N}-\mathbb{E}(SFC)}{\sigma}\right)$ avec $N=1000$, $\mathbb{E}(SFC)=17.52$ et $\sigma=0.2899$}
+    \label{TCL_SFC}
+\end{center}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[!h]
+\begin{center}
+    \includegraphics[scale=0.7]{histo_Mfuel.pdf}
+    \caption{Histogramme de la répartition de $10000$ valeurs de $M_{fuel}$}
+    \label{histo_M}
+\end{center}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[!h]
+\begin{center}
+    \includegraphics[scale=0.7]{histo_Mfuel_b.pdf}
+    \caption{Densité de $M_{fuel}$ pour différents niveaux de bruit. Estimation avec $N=10000$}
+    \label{histo_M_b}
+\end{center}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[!h]
+\begin{center}
+    \includegraphics[scale=0.7]{Sobol_F.png}
+    \caption{Nuage de points des estimations de $S^{\{F\}}$ en fonction de $N$, taille de l'échantillon}
+    \label{sobol_F}
+\end{center}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[!h]
+\begin{center}
+    \includegraphics[scale=0.7]{Sobol_SFC.png}
+    \caption{Nuage de points des estimations de $S^{\{SFC\}}$ en fonction de $N$, taille de l'échantillon}
+    \label{sobol_SFC}
+\end{center}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[!h]
+\begin{center}
+    \includegraphics[scale=0.7]{Sobol_b.pdf}
+    \caption{Evolution de $S^{\{SFC\}}$ et de $S^{\{F\}}$ en fonction de $\sigma$. $N=10000$}
+    \label{sobol_b}
+\end{center}
+\end{figure}
+\efloatseparator
+ 
